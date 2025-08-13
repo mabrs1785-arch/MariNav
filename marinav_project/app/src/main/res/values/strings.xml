@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">MariNav</string>
+    <string name="attribution">© OpenStreetMap contributors | © OpenSeaMap | MapLibre</string>
+</resources>
